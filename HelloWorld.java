@@ -1,4 +1,3 @@
-package ca.mths.intro.intro_01.java.hello_world;
 /**
 * The Hello World! program implements an application that
 * simply displays "Hello World!" to the standard output.
